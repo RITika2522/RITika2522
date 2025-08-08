@@ -1,11 +1,11 @@
-![Ritika's Banner](https://github.com/ritika-username/ritika-username/blob/main/banner.png?raw=true)
+![Ritika's Banner](https://github.com/RITika2522/RITika2522/blob/main/ritika_banner.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Ritika</h1>
 <h3 align="center">Bringing ideas to life through clean code, intuitive design, and scalable solutions.</h3>
 
 - 🔭 I’m currently working on **Web Dev Project**
 
-- 🌱 I’m currently learning **DevOps MERN Stack**
+- 🌱 I’m currently learning **DevOps MERN Stack AI/ML**
 
 - 💬 Ask me about **Python, React, Node.js, C++, .NET, Firebase, MySQL**
 
